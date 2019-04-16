@@ -184,9 +184,13 @@ print P2
 
 ![img](https://github.com/zengqq1997/PCVch05-/blob/master/Eresult.jpg)
 
+![img](https://github.com/zengqq1997/PCVch05-/blob/master/Eresult1.jpg)
+
 **和照相机矩阵结果**
 
-![img](https://github.com/zengqq1997/PCVch05-/blob/master/Eresult1.jpg)
+![img](https://github.com/zengqq1997/PCVch05-/blob/master/Cresult.jpg)
+
+![img](https://github.com/zengqq1997/PCVch05-/blob/master/Cresult1.jpg)
 
 **三角剖分正确点，并计算每个照相机的深度代码**
 
@@ -280,4 +284,3 @@ P3 = sfm.compute_P(x3_13, X[:, ndx_13])
 ![img](https://github.com/zengqq1997/PCVch05-/blob/master/solve.jpg)
 
 将划红线的值改大，但是不能大于**1**
-
